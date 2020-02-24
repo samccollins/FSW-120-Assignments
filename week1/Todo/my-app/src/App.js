@@ -7,7 +7,7 @@ function App() {
   return (
       <div>
         <h1>My To-Do List</h1>
-          <input type= "checkbox" /><span>Homework</span>
+          <input type= "checkbox"/><span>Homework</span>
 
           <br></br>
 
